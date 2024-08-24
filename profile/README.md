@@ -20,5 +20,10 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/je
 
 ### Backend
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" height=80 /> <img 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" height=80/>
+
 ### Machine Learning
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height=80 /> <img 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" height=80 />
