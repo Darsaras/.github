@@ -2,7 +2,7 @@
 <div align="center">
     <h1>Darsaras - Building Armored Software</h1>
     <p>
-        <br>🔭 We are Darsaras, a future mexican startup focused on building armored software
+        <br>🔭 We are Darsaras, a future mexican product-oriented startup focused on building armored software
     </p>
 </div>
 
