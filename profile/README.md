@@ -28,7 +28,7 @@
             </td>
         </tr>
         <tr>
-            <td align="center" width="100">Server Side Engineering</td>
+            <td align="center" width="100">Cloud & Distributed Systems</td>
             <td>
                       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" height="60" />&nbsp;
                       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="60"/>&nbsp;
