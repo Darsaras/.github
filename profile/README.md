@@ -6,42 +6,44 @@
     </p>
 </div>
 
+<div>
+    <p>Our main target products are: </p>
+    <ul>
+        <li>SaaS</li>
+        <li>Mobile frontend for SaaS</li>
+        <li>ML models incorporated for specific tasks unto our SaaS</li>
+        <li>Cloud & Distributed Systems</li>
+    </ul>
+</div>
+
 ---
 
 <div align="center">
     <h2>💻 Our stack </h2>
     <table>
         <tr>
-            <td align="center" width="100">SaaS</td>
+            <td align="center" width="100">Languages</td>
             <td>
-                      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" height="60"/>&nbsp;
-                      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="60"/>&nbsp;
-                      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="65" />&nbsp;
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"  width=65 />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width=65 />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width=65 />
             </td>
         </tr>
         <tr>
-            <td align="center" width="100">Mobile</td>
+            <td align="center" width="100">Frameworks & Tools</td>
             <td>
-                      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="60" />&nbsp;
-                      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="60" />&nbsp;
-                      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="60"/>&nbsp;
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width=65 />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" width=65 />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width=65 />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width=70 />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width=65 />
             </td>
         </tr>
         <tr>
-            <td align="center" width="100">Cloud & Distributed Systems</td>
+            <td align="center" width="100">Databases</td>
             <td>
-                      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" height="60" />&nbsp;
-                      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="60"/>&nbsp;
-                      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="65" />&nbsp;
-                      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" height="60"/>&nbsp;
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="100">Machine Learning</td>
-            <td>
-                      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="60" />&nbsp;
-                      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" height="60" />&nbsp;
-                      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="65" />&nbsp;
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width=65 />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width=65 />
             </td>
         </tr>
     </table>
