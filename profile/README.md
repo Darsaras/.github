@@ -11,7 +11,7 @@
     <ul>
         <li>SaaS</li>
         <li>Mobile frontend for SaaS</li>
-        <li>ML models incorporated for specific tasks unto our SaaS</li>
+        <li>ML models incorporated for specific tasks into our SaaS's</li>
         <li>Cloud & Distributed Systems</li>
     </ul>
 </div>
