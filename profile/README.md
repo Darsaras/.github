@@ -7,11 +7,11 @@
 </div>
 
 <div>
-    <p>Our main target products are: </p>
+    <p>Our focus is on: </p>
     <ul>
-        <li>SaaS</li>
-        <li>Mobile frontend for SaaS</li>
-        <li>ML models incorporated for specific tasks into our SaaS's</li>
+        <li>Web</li>
+        <li>Mobile</li>
+        <li>Machine Learning</li>
         <li>Cloud & Distributed Systems</li>
     </ul>
 </div>
@@ -34,7 +34,6 @@
             <td>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width=65 />
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" width=65 />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width=65 />
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width=70 />
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width=65 />
             </td>
