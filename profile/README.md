@@ -9,10 +9,9 @@
 <div>
     <p>Our focus is on: </p>
     <ul>
-        <li>Web</li>
-        <li>Mobile</li>
         <li>Machine Learning</li>
         <li>Cloud & Distributed Systems</li>
+        <li>Telemetry</li>
     </ul>
 </div>
 
