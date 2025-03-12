@@ -10,8 +10,8 @@
     <p>Our focus is on: </p>
     <ul>
         <li>Machine Learning</li>
-        <li>Cloud & Distributed Systems</li>
-        <li>Telemetry</li>
+        <li>Backend</li>
+        <li>CLI</li>
     </ul>
 </div>
 
