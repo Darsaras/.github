@@ -33,7 +33,7 @@ This are the roles we currently have:
             </td>
         </tr>
         <tr>
-            <td align="center" width="100">Cloud Tools</td>
+            <td align="center" width="100">Cloud Infra</td>
             <td>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="80"/>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="60"/>
